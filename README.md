@@ -2,7 +2,7 @@
 
 I have a Mathematics degree from Western Connecticut State University.  My focuses were secondary classroom education and machine learning.
 
-I am currently work as a systems analyst for a supply chain where I do a lot of database work.  I am working towards a position in data science.
+I am currently working as a systems analyst for a supply chain where I do a lot of database work.  I am working towards a position in data science.
 
 > Programming languages:  Python, Java, MATLAB
 
