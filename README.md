@@ -4,6 +4,8 @@ I have a Mathematics degree from Western Connecticut State University.  My focus
 
 I currently work as a systems analyst for a supply chain where I where I do a lot of database work.  I am working towards a position in data science.
 
-Programming languages:  Python, Java, MATLAB
-Database:  Microsoft SQL, Oracle
-Machine Learning:  linear/logistic regression, support vector machines, k-Nearest Neighbors
+> Programming languages:  Python, Java, MATLAB
+
+> Database:  Microsoft SQL, Oracle
+
+> Machine Learning:  linear/logistic regression, support vector machines, k-Nearest Neighbors
