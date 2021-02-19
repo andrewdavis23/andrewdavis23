@@ -6,7 +6,7 @@ I am currently working as a systems analyst for a supply chain where I do a lot 
 
 > Programming languages:  Python, Java, MATLAB
 
-> Database:  Microsoft SQL, Oracle, Power BI, MicroStrategy IDW
+> Database:  Microsoft SQL, Oracle, Power BI
 
 > Machine Learning:  linear/logistic regression, support vector machines, k-Nearest Neighbors
 
