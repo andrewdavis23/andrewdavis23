@@ -8,6 +8,6 @@ I am currently working as a systems analyst for a supply chain where I do a lot 
 
 > Database:  Microsoft SQL, Oracle, Power BI
 
-> Machine Learning:  linear/logistic regression, support vector machines, k-Nearest Neighbors
+> Machine Learning mathematical analysis:  linear/logistic regression, support vector machines, k-Nearest Neighbors
 
 [Linkedin](https://www.linkedin.com/in/davis220/)
