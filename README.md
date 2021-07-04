@@ -1,4 +1,4 @@
-#### Hello and welcome! 
+### Hello and welcome! 
 
 My name is Andrew Davis. I have a Mathematics degree from Western Connecticut State University.  My focuses were secondary classroom education and machine learning.
 
@@ -10,4 +10,7 @@ I am currently working as a systems analyst for a supply chain where I do a lot 
 
 > Machine Learning mathematical analysis:  linear/logistic regression, support vector machines, k-Nearest Neighbors
 
-[Linkedin](https://www.linkedin.com/in/davis220/)
+[Check out my Linkedin profile](https://www.linkedin.com/in/davis220/)
+
+### Check this out:
+[Computer Vision White Paper & Project](https://github.com/andrewdavis23/screenshot-to-table/blob/main/README.md)
